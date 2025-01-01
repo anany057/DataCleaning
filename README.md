@@ -2,7 +2,7 @@
 # DataCleaning
 
 ## Overview
-This repository contains a Jupyter Notebook file titled **"Pandas_Lec6_DataCleaning.ipynb"**, which provides an in-depth tutorial and practical examples of data cleaning techniques using the Pandas library in Python. The notebook is part of a series designed to help data analysts and scientists clean, transform, and prepare datasets for analysis.
+This repository contains a Jupyter Notebook file , which provides an in-depth tutorial and practical examples of data cleaning techniques using the Pandas library in Python. The notebook is part of a series designed to help data analysts and scientists clean, transform, and prepare datasets for analysis.
 
 ## Key Features
 - **Data Cleaning Techniques**: Covers various methods to handle missing data, outliers, and inconsistencies in datasets.
